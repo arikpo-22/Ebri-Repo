@@ -1,0 +1,10 @@
+Defect Log,,,,,,,,,,,,,,
+Count,1,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Total Open,1,,,,,,,,,,,,,
+QA Tester,Arikpo Ebri,,,,,,,,,,,,,
+Project Title: ,Swipe Web Application,,,,,,,,,,,,,Issue Log
+Issue #,Issue Description (Steps),Actual Behaviour,Date Opened,Criticality,Issue Type,Expected Behaviour,Evidence (Screenshot),Owner,Status,Dev Comment,Dev Status,Plannned Close Date,Actual Date Closed,No of Days Open
+SA_001,"
+
+Test Case: Ensure a user can add a song to his/her playlist","System displayed an error: ""Unable to add song to playlist. Please try again later""",27th April '23,High,Defect,Expected Result: User should be able to add a song to their playlist successfully. ,,SwipeTech-Limited,Open,,,,,
